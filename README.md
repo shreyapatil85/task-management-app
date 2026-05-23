@@ -15,7 +15,7 @@ A simple task management web application built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-Add your deployed link here
+https://6a11588c69027a0a74085be8--iridescent-snickerdoodle-a535bc.netlify.app/
 
 ## GitHub Repository
-Add your GitHub repository link here
+https://github.com/shreyapatil85/task-management-app
